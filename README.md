@@ -1,2 +1,2 @@
 # posts_app_clean_archi
-this app build with clean
+this app build with
